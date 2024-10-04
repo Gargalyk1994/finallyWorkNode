@@ -1,0 +1,11 @@
+Api for create, get, update of list users
+
+GET /users - получить всех пользователей
+
+POST /users - создать пользователя
+
+PUT /users:id - обновить пользователя
+
+GET /users:id - получить одного пользователя по id
+
+DELETE /users:id - удалить пользователя
